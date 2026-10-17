@@ -1,0 +1,10 @@
+{
+  "subject": "acct:MoHong@mohong.cc.cd",
+  "links": [
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://misskey.design/users/MoHong"
+    }
+  ]
+}
