@@ -1,10 +1,14 @@
 {
-  "subject": "acct:MoHong@fediverse.mohong.cc.cd",
+  "subject": "acct:MoHong@mohong.cc.cd",
+  "aliases": [
+    "https://misskey.design/users/asfsrdmrm9yb0wgc",
+    "acct:MoHong@misskey.design"
+  ],
   "links": [
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://misskey.design/users/MoHong"
+      "href": "https://misskey.design/users/asfsrdmrm9yb0wgc"
     }
   ]
 }
